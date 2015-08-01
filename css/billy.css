@@ -1,0 +1,161 @@
+p.p2 {
+    margin: 0.0px 0.0px 15.0px 0.0px;
+    line-height: 26.0px;
+    font: 14.0px Times;
+    -webkit-text-stroke: #666666;
+    color: #4B3943;
+}
+
+p.p3 {
+    margin: 0.0px 0.0px 15.0px 0.0px;
+    line-height: 25.0px;
+    font: 14.0px Times;
+    -webkit-text-stroke: #666666;
+    background-color: #ffffff
+}
+
+p.p6 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 24.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #666666
+}
+
+p.p7 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 23.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #444444
+}
+
+p.p8 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 26.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #666666;
+    min-height: 23.0px
+}
+
+p.p9 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 24.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #111111
+}
+
+p.p11 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 24.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #666666;
+    min-height: 23.0px
+}
+
+p.p12 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 23.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #aaaaaa
+}
+
+p.p13 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 24.0px;
+    font: 18.0px Times;
+    color: #232323;
+    -webkit-text-stroke: #111111;
+    min-height: 23.0px
+}
+
+p.p14 {
+    margin: 0.0px 0.0px 0.0px 0.0px;
+    line-height: 23.0px;
+    font: 18.0px Times;
+    color: #5B3F4F;
+    -webkit-text-stroke: #ffffff
+}
+
+span.s1 {
+    font-family: Klimax Std Minus, verdana, geneva, Arial, sans-serif;
+    color: #E396B5;
+    font-size: 12pt;
+}
+
+span.s2 {
+    font-family: Klimax Std Minus, verdana, geneva, Arial, sans-serif;
+    color: #CEB9CD;
+}
+
+span.s3 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #666666;
+}
+
+span.s4 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #bbbbbb;
+    color: #B9B3B3;
+    font-size: 12pt;
+}
+
+span.s5 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #111111;
+    font-size: 12pt;
+}
+
+span.s6 {
+    font-family: Klimax Std Minus, verdana, geneva, Arial, sans-serif;
+    color: #AE8C8C;
+}
+
+a {
+    font-family: Klimax Std Minus, verdana, geneva, Arial, sans-serif;
+    color: #AE8C8C;
+}
+
+span.s7 {
+    font-family: Klimax Std Minus, verdana, geneva, Arial, sans-serif;
+    color: #5E5555;
+}
+
+span.s8 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #bbbbbb;
+    color: #CFCBCB;
+    font-size: 12pt;
+}
+
+span.s9 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #bbbbbb;
+    color: #757171;
+    font-size: 12pt;
+}
+
+span.s10 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #bbbbbb;
+    color: white;
+    font-size: 12pt;
+    background-color: black;
+}
+
+span.s11 {
+    font-kerning: none;
+    -webkit-text-stroke: 0px #bbbbbb;
+    color: gray;
+    font-size: 12pt;
+    background-color: black;
+}
+
+div.q {
+    background-color: black;
+    display: block;
+}
